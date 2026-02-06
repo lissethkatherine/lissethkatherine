@@ -81,7 +81,6 @@
             transform-origin: 100% 100%;
         }
 
-        /* Capas adicionales para efecto 3D low-poly */
         .layer {
             position: absolute;
             width: 100%;
@@ -137,7 +136,6 @@
             50% { transform: scale(1.05); }
         }
 
-        /* Responsive Design */
         @media (max-width: 768px) {
             .container {
                 flex-direction: column;
@@ -176,7 +174,6 @@
             }
         }
 
-        /* Efecto glow adicional */
         .heart-3d::before {
             content: '';
             position: absolute;
