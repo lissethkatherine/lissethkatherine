@@ -1,1 +1,3 @@
-3D render, futuristic programmer banner, neon lights, dark background, glowing code, modern tech style, name "Liss", high quality, github profile banner, 3D typography
+<p align="center">
+  <img src="https://link-de-tu-gif-3d.gif" width="700">
+</p>
