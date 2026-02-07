@@ -27,7 +27,8 @@
 
 <hr />
 
-## 🎀 𝓔𝓭𝓾𝓬𝓪𝓬𝓲ó𝓷 𝔂 𝓐𝓹𝓻𝓮𝓷𝓭𝓲𝔃𝓪𝓳𝓮
+<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=25&duration=1&pause=1000&color=FF69B4&width=400&lines=Educación+y+Aprendizaje" alt="Educación" />
+
 * **Introducción a la Programación:** Lógica y fundamentos.
 * **PSeInt:** Algoritmos y lógica de programación.
 * **Python 1:** Manejo de variables, funciones y archivos JSON.
@@ -35,14 +36,16 @@
 
 <br />
 
-## 📂 𝓟𝓻𝓸𝔂𝓮𝓬𝓽𝓸𝓼 𝓡𝓮𝓪𝓵𝓲𝔃𝓪𝓭𝓸𝓼
+<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=25&duration=1&pause=1000&color=FF69B4&width=400&lines=Proyectos+Realizados" alt="Proyectos" />
+
 | Lenguaje | Proyecto | Descripción |
 | :---: | :--- | :--- |
 | <img src="https://skillicons.dev/icons?i=python" width="25"/> | **[Sistema de Gestión de Gastos](https://github.com/lissethkatherine/Proyecto_Python_LissethZapata)** | Aplicación de consola para administrar finanzas personales con JSON. |
 
 <br />
 
-## 🛠️ 𝓣𝓮𝓬𝓷𝓸𝓵𝓸𝓰í𝓪𝓼 𝔂 𝓗𝓮𝓻𝓻𝓪𝓶𝓲𝓮𝓷𝓽𝓪𝓼
+<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=25&duration=1&pause=1000&color=FF69B4&width=400&lines=Tecnologías+y+Herramientas" alt="Tecnologías" />
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
