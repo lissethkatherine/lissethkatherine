@@ -33,8 +33,8 @@
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
-<p align="left">
+<h2 align="center">🛠️ Tecnologías y Herramientas</h2>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -43,7 +43,7 @@
 
 ---
 
-## 📈 Mi Actividad en GitHub
+<h2 align="center">📈 Mi Actividad en GitHub</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lissethkatherine&show_icons=true&theme=radical&color_title=FF69B4&hide_border=true" alt="Estadísticas de Lisseth" />
 </p>
