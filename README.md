@@ -28,10 +28,17 @@
 <hr />
 
 ### 👩‍💻 Mi Trayectoria de Aprendizaje
-- **Introducción a la Programación:** Lógica y fundamentos.
-- **PSeInt:** Algoritmos y lógica de programación.
-- **Python 1:** Manejo de variables, funciones y archivos JSON.
-- **GitHub:** Control de versiones y gestión de proyectos (Actual).
+- **Introducción a la Programación:** Lógica y fundamentos de algoritmos.
+- **PSeInt:** Desarrollo de lógica mediante pseudocódigo y diagramas de flujo.
+- **Python 1:** Manejo de variables, funciones, estructuras de datos y persistencia con JSON.
+- **GitHub:** Control de versiones, gestión de repositorios y trabajo colaborativo.
+
+### 📁 Proyectos Realizados
+| Lenguaje | Proyecto | Descripción |
+| :---: | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=python" width="25"/> | **[Sistema de Gestión de Gastos](https://github.com/lissethkatherine/Proyecto_Python_LissethZapata)** | Aplicación de consola para administrar finanzas personales con almacenamiento en JSON. |
+
+<br />
 
 ### 🛠️ Tecnologías y Herramientas
 <p align="left">
@@ -40,6 +47,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
-### 📂 Proyecto Destacado
-> **💰 Sistema de Gestión de Gastos:** Programa desarrollado en Python que utiliza archivos JSON para el almacenamiento de datos, aplicando lógica modular y manejo de estructuras.
