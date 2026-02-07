@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/HIAO8F0fj70AAAAj/skeleton-run.gif" />
+  <img src="https://lh5.googleusercontent.com/proxy/x2JkCoPqFw3ddxCLZeWHa4jKsLpkrNzZKX7XrAD-MM3sHXysWP-ul5OOXHRdpKiNiU448fk6Sba9lSU" />
 </div>
 
 <div align="center">
