@@ -3,17 +3,6 @@
 
   <div align="center">
     <h2>Connect with me</h2>
-    
-    <a href="https://github.com/Kathryn-Jie">
-      <img src="https://img.shields.io/github/followers/Kathryn-Jie?label=Follow&style=social" />
-    </a>
-    <a href="https://github.com/Kathryn-Jie">
-      <img src="https://img.shields.io/github/stars/Kathryn-Jie?style=social" />
-    </a>
-  </div>
-</div>
-
-<br />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lisseth-katherine-zapata-cano-aa43543aa">
