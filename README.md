@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://photos.app.goo.gl/3E9vhfQGp4ntJ9FV7" />
+  <img src="https://drive.google.com/file/d/1mItDtDdKReSj1rxmYyp4l8DhTJmTD-SA/view?usp=drivesdk" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi,+soy+Lisseth+Katherine;Apasionada+por+la+Tecnolog%C3%ADa;Bienvenida+a+mi+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Apasionada+por+la+Tecnolog%C3%ADa" alt="Typing SVG" />
 </div>
 
 <p align="center">
