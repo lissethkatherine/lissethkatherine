@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://drive.google.com/uc?export=download&id=12wyJy8_bv0lf2Z1E0CIMsMcOBkPvcN8F" width="250" />
+  <img src="https://drive.google.com/uc?export=download&id=12wyJy8_bv0lf2Z1E0CIMsMcOBkPvcN8F" width="450" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Apasionada+por+la+Tecnolog%C3%ADa;Futura+dev+construyendo+soluciones;Codeando+mi+camino+hacia+el+éxito" alt="Typing SVG" />
+  <br />
 
-  <p><strong>📍 Floridablanca, Santander, Colombia 🚀</strong></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Apasionada+por+la+Tecnolog%C3%ADa;Futura+dev+construyendo+soluciones;Codeando+mi+camino+hacia+el+éxito" alt="Typing SVG" />
+
+  <br />
 
   <p>
     <a href="https://github.com/lissethkatherine">
@@ -22,12 +24,13 @@
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
+
+  <p><strong>📍 Floridablanca, Santander, Colombia 🚀</strong></p>
 </div>
 
 <hr />
 
 ### 👩‍💻 Mi Trayectoria de Aprendizaje
-He completado y estoy cursando los siguientes módulos:
 - **Introducción a la Programación:** Lógica y fundamentos.
 - **PSeInt:** Algoritmos y lógica de programación.
 - **Python 1:** Manejo de variables, funciones y archivos JSON.
@@ -43,6 +46,3 @@ He completado y estoy cursando los siguientes módulos:
 
 ### 📂 Proyecto Destacado
 > **💰 Sistema de Gestión de Gastos:** Programa desarrollado en Python que utiliza archivos JSON para el almacenamiento de datos, aplicando lógica modular y manejo de estructuras.
-
----
-<p align="center">"El código es poesía en movimiento" ✨</p>
