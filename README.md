@@ -1,13 +1,11 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kaizoku-oh/kaizoku-oh/master/static/myintro.gif" width="100%"/>
+  <img src="https://www.puntogeek.com/wp-content/uploads/2013/03/noob-o.gif" width="300" />
 
-  <br/>
+  <br />
 
-  <img src="https://github.com/Kathryn-Jie.png" width="120" style="border-radius: 50%; border: 3px solid white;" />
-  
+  <img src="https://github.com/Kathryn-Jie.png" width="150" style="border-radius: 50%;" />
+
   <h1>Lisseth Katherine Zapata Cano</h1>
-  
-  <p><b>📍 Floridablanca, Santander, Colombia</b></p>
 
   <a href="https://github.com/Kathryn-Jie">
     <img src="https://img.shields.io/github/followers/Kathryn-Jie?label=Follow&style=social" />
@@ -26,10 +24,22 @@
   <a href="https://www.instagram.com/liss.cano9?igsh=MTY0a2QzZDAwNjFieA==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="URL_DE_TU_CANVA">
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  </a>
   <a href="https://x.com/Lisseth_015">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/TU_USUARIO">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="mailto:katherinecano02@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+<br />
+
+<p align="center">
+  📍 Floridablanca, Santander, Colombia
+</p>
