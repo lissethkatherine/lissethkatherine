@@ -32,4 +32,8 @@
   </a>
 </div>
 
-<p align="center">📍 Floridablanca, Santander, Colombia</p>
+<br />
+
+<p align="center">
+  📍 Floridablanca, Santander, Colombia
+</p>
