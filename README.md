@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cliply.co/wp-content/uploads/2020/10/442010360_WINKING_AVATAR_3D_400px.gif" />
+  <img src="https://media.tenor.com/HIAO8F0fj70AAAAj/skeleton-run.gif" />
 </div>
 
 <div align="center">
