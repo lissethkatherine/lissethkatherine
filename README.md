@@ -3,14 +3,11 @@
 
   <br />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Apasionada+por+la+Tecnolog%C3%ADa;Futura+dev+construyendo+soluciones;Codeando+mi+camino+hacia+el+éxito" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Apasionada+por+la+Tecnolog%C3%ADa;Futura+dev+construyendo+soluciones;Codeando+mi+camino+hacia+el+éxito" alt="Typing SVG" />
 
   <br />
 
   <p>
-    <a href="https://github.com/lissethkatherine">
-      <img src="https://img.shields.io/github/followers/lissethkatherine?label=Followers&style=for-the-badge&color=181717&logo=github&logoColor=white" />
-    </a>
     <a href="https://www.linkedin.com/in/lisseth-katherine-zapata-cano-aa43543aa" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
