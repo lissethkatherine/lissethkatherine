@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.wired.jp/photos/61ce989a41c95d4ca89a170d/master/w_1600%2Cc_limit/e014f751512252fae5c82c3e12e94031.gif" />
+  <img src="https://photos.app.goo.gl/3E9vhfQGp4ntJ9FV7" />
 </div>
 
 <div align="center">
