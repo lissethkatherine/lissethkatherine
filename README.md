@@ -1,20 +1,23 @@
 <div align="center">
-  <img src="https://drive.google.com/uc?export=download&id=1UAI8Ju6Js5AoDf4T_956LyeFwD4WbVnr" width="100%" />
+  <img src="https://drive.google.com/uc?export=download&id=12MpLOL2_SSr6ebD_nI6I7F2r_WIHPzFN" width="100%" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Apasionada+por+la+Tecnolog%C3%ADa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Apasionada+por+la+Tecnolog%C3%ADa;Futura+dev+construyendo+soluciones;Codeando+mi+camino+hacia+el+éxito" alt="Typing SVG" />
 
   <p>
     <a href="https://github.com/Kathryn-Jie">
-      <img src="https://img.shields.io/github/followers/Kathryn-Jie?label=Followers&style=flat-square&color=FF69B4&logo=github&logoColor=white" />
-    <p>
+      <img src="https://img.shields.io/github/followers/Kathryn-Jie?label=Followers&style=flat-square&color=181717&logo=github&logoColor=white" />
+     </p>
     <a href="https://www.linkedin.com/in/lisseth-katherine-zapata-cano-aa43543aa" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=flat-square&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://www.instagram.com/liss.cano9?igsh=MTY0a2QzZDAwNjFieA==" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-FF69B4?style=flat-square&logo=instagram&logoColor=white" />
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://x.com/Lisseth_015" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
     </a>
     <a href="mailto:katherinecano02@gmail.com">
-      <img src="https://img.shields.io/badge/Email-FF69B4?style=flat-square&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
     </a>
   </p>
 
