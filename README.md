@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://lh5.googleusercontent.com/proxy/x2JkCoPqFw3ddxCLZeWHa4jKsLpkrNzZKX7XrAD-MM3sHXysWP-ul5OOXHRdpKiNiU448fk6Sba9lSU" />
-</div>
-
-<div align="center">
-  <h1>¡Hola! 👋 Soy Lisseth Katherine Zapata Cano</h1>
+  <img src="https://media.es.wired.com/photos/68a72e19b2053a21ea4a85f0/3:2/w_2560%2Cc_limit/Vibe_Coding_Final.gif" />
 </div>
 
 <div align="center">
