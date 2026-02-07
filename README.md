@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img1.picmix.com/output/stamp/normal/6/1/8/6/1636816_a66bf.giff" />
+  <img src="https://media.wired.jp/photos/61ce989a41c95d4ca89a170d/master/w_1600%2Cc_limit/e014f751512252fae5c82c3e12e94031.gif" />
 </div>
 
 <div align="center">
