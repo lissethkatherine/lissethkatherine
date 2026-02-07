@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://drive.google.com/uc?export=download&id=12MpLOL2_SSr6ebD_nI6I7F2r_WIHPzFN" width="100%" />
+  <img src="https://drive.google.com/file/d/12wyJy8_bv0lf2Z1E0CIMsMcOBkPvcN8F/view?usp=drivesdk" />
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Apasionada+por+la+Tecnolog%C3%ADa;Futura+dev+construyendo+soluciones;Codeando+mi+camino+hacia+el+éxito" alt="Typing SVG" />
 
