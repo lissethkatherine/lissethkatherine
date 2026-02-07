@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://drive.google.com/uc?export=download&id=1mItDtDdKReSj1rxmYyp4l8DhTJmTD-SA" width="100%" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Apasionada+por+la+Tecnolog%C3%ADa;Futura+dev+construyendo+soluciones;Convirtiendo+ideas+en+líneas+de+código." alt="Typing SVG" />
+  <img src="https://drive.google.com/uc?export=download&id=1UAI8Ju6Js5AoDf4T_956LyeFwD4WbVnr" width="100%" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Apasionada+por+la+Tecnolog%C3%ADa" alt="Typing SVG" />
 
   <p>
     <a href="https://github.com/Kathryn-Jie">
       <img src="https://img.shields.io/github/followers/Kathryn-Jie?label=Followers&style=flat-square&color=FF69B4&logo=github&logoColor=white" />
-    </a>
     </a>
     <a href="https://www.linkedin.com/in/lisseth-katherine-zapata-cano-aa43543aa" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=flat-square&logo=linkedin&logoColor=white" />
