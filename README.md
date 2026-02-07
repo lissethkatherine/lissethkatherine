@@ -7,12 +7,10 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kathryn-Jie&label=Profile%20Visits&color=ff69b4&style=for-the-badge" alt="Profile views" />
   <a href="https://github.com/Kathryn-Jie">
     <img src="https://img.shields.io/github/followers/Kathryn-Jie?label=Followers&style=for-the-badge&color=ff69b4&logo=github" alt="GitHub followers" />
   </a>
 </p>
-
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lisseth-katherine-zapata-cano-aa43543aa" target="_blank">
