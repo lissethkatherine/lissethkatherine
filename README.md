@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://support.microsoft.com/images/es-es/0a3671fc-0bc1-4a05-b645-7ae7fba2bedc" />
+  <img src="https://support.microsoft.com/images/es-es/0a3671fc-0bc1-4a05-b645-7ae7fba2bedc" width="400" />
 </div>
 
 <div align="center">
@@ -34,4 +34,4 @@
 
 <br />
 
-<p align="center">❤️ Floridablanca, Santander, Colombia</p>
+<p align="center">✨ Floridablanca, Santander, Colombia ✨</p>
