@@ -3,7 +3,7 @@
 
   <br />
 
-  <img src="https://github.com/Kathryn-Jie.png" width="150" style="border-radius: 50%;" />
+  <img src="https://github.com/Kathryn-Jie.png" width="150" />
 
   <h1>Lisseth Katherine Zapata Cano</h1>
 
@@ -32,8 +32,4 @@
   </a>
 </div>
 
-<br />
-
-<p align="center">
-  📍 Floridablanca, Santander, Colombia
-</p>
+<p align="center">📍 Floridablanca, Santander, Colombia</p>
