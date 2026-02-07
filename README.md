@@ -27,13 +27,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=28&duration=1&color=FF69B4&width=450&lines=Trayectoria+de+Aprendizaje" />
 
-<br />
 <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=18&duration=1&color=FFFFFF&width=600&lines=•+Introducción+a+la+Programación:+Lógica+y+fundamentos." />
-<br />
 <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=18&duration=1&color=FFFFFF&width=600&lines=•+PSeInt:+Algoritmos+y+lógica+de+programación." />
-<br />
 <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=18&duration=1&color=FFFFFF&width=600&lines=•+Python+1:+Manejo+de+variables+y+archivos+JSON." />
-<br />
 <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=18&duration=1&color=FFFFFF&width=600&lines=•+GitHub:+Control+de+versiones+y+proyectos." />
 
 <br /><br />
