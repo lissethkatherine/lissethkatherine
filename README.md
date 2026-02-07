@@ -27,23 +27,24 @@
 
 <hr />
 
-### 👩‍💻 Mi Trayectoria de Aprendizaje
-- **Introducción a la Programación:** Lógica y fundamentos de algoritmos.
-- **PSeInt:** Desarrollo de lógica mediante pseudocódigo y diagramas de flujo.
-- **Python 1:** Manejo de variables, funciones, estructuras de datos y persistencia con JSON.
-- **GitHub:** Control de versiones, gestión de repositorios y trabajo colaborativo.
-
-### 📁 Proyectos Realizados
-| Lenguaje | Proyecto | Descripción |
-| :---: | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=python" width="25"/> | **[Sistema de Gestión de Gastos](https://github.com/lissethkatherine/Proyecto_Python_LissethZapata)** | Aplicación de consola para administrar finanzas personales con almacenamiento en JSON. |
+## 🎀 𝓔𝓭𝓾𝓬𝓪𝓬𝓲ó𝓷 𝔂 𝓐𝓹𝓻𝓮𝓷𝓭𝓲𝔃𝓪𝓳𝓮
+* **Introducción a la Programación:** Lógica y fundamentos.
+* **PSeInt:** Algoritmos y lógica de programación.
+* **Python 1:** Manejo de variables, funciones y archivos JSON.
+* **GitHub:** Control de versiones y gestión de proyectos.
 
 <br />
 
-### 🛠️ Tecnologías y Herramientas
+## 📂 𝓟𝓻𝓸𝔂𝓮𝓬𝓽𝓸𝓼 𝓡𝓮𝓪𝓵𝓲𝔃𝓪𝓭𝓸𝓼
+| Lenguaje | Proyecto | Descripción |
+| :---: | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=python" width="25"/> | **[Sistema de Gestión de Gastos](https://github.com/lissethkatherine/Proyecto_Python_LissethZapata)** | Aplicación de consola para administrar finanzas personales con JSON. |
+
+<br />
+
+## 🛠️ 𝓣𝓮𝓬𝓷𝓸𝓵𝓸𝓰í𝓪𝓼 𝔂 𝓗𝓮𝓻𝓻𝓪𝓶𝓲𝓮𝓷𝓽𝓪𝓼
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
