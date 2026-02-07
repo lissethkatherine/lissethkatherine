@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.es.wired.com/photos/68a72e19b2053a21ea4a85f0/3:2/w_2560%2Cc_limit/Vibe_Coding_Final.gif" />
+  <img src="https://media.es.wired.com/photos/68a72e19b2053a21ea4a85f0/3:2/w_1600,c_limit/Vibe_Coding_Final.gif" />
 </div>
 
 <div align="center">
