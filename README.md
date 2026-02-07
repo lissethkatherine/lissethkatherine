@@ -1,21 +1,31 @@
-<div id="badges">
-  <a href="https://www.linkedin.com/in/lisseth-katherine-zapata-cano-aa43543aa">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<p align="center">
+  <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png?raw=true">
+</p>
 
-  <a href="https://discord.com/users/lisseth_katherine">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
+<h2 align="center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 
-  <a href="https://www.instagram.com/liss.cano9?igsh=MTY0a2QzZDAwNjFieA==">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+<p align="center">
+  <a href='https://www.linkedin.com/in/lisseth-katherine-zapata-cano-aa43543aa'>
+    <img width='32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
+  </a>&nbsp;&nbsp;
 
-  <a href="https://x.com/Lisseth_015">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
-  </a>
+  <a href='https://www.instagram.com/liss.cano9?igsh=MTY0a2QzZDAwNjFieA=='>
+    <img width='32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/>
+  </a>&nbsp;&nbsp;
 
-  <a href="mailto:katherinecano020@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <a href='https://x.com/Lisseth_015'>
+    <img width='32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>
+  </a>&nbsp;&nbsp;
+
+  <a href='https://discord.com/users/TU_USUARIO'>
+    <img width='32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg"/>
+  </a>&nbsp;&nbsp;
+
+  <a href='mailto:katherinecano02@gmail.com'>
+    <img width='32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/email.svg"/>
   </a>
-</div>
+</p>
+
+<p align="center">
+  📍 Colombia
+</p>
