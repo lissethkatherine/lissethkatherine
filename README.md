@@ -28,5 +28,10 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </p>
 
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Kathryn-Jie&show_icons=true&theme=radical&color_title=FF69B4&hide_border=true" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathryn-Jie&layout=compact&theme=radical&color_title=FF69B4&hide_border=true" height="150" />
+  </p>
+
   <p><strong>📍 Floridablanca, Santander, Colombia 🚀</strong></p>
 </div>
