@@ -1,37 +1,50 @@
 <div align="center">
-  <img src="https://drive.google.com/uc?export=download&id=12wyJy8_bv0lf2Z1E0CIMsMcOBkPvcN8F" />
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Apasionada+por+la+Tecnolog%C3%ADa;Futura+dev+construyendo+soluciones;Codeando+mi+camino+hacia+el+éxito" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=¡Hola!+Soy+Lisseth+Cano;Estudiante+de+Programación;Aprendiendo+Python+y+GitHub" alt="Typing SVG" />
+
+  <p><strong>📍 Floridablanca, Santander, Colombia 🇨🇴</strong></p>
 
   <p>
-    <a href="https://github.com/Kathryn-Jie">
-      <img src="https://img.shields.io/github/followers/Kathryn-Jie?label=Followers&style=for-the-badge&color=181717&logo=github&logoColor=white" />
-    </a>
     <a href="https://www.linkedin.com/in/lisseth-katherine-zapata-cano-aa43543aa" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://www.instagram.com/liss.cano9?igsh=MTY0a2QzZDAwNjFieA==" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="https://x.com/Lisseth_015" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
     </a>
     <a href="mailto:katherinecano02@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
+</div>
 
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </p>
+<hr />
 
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lissethkatherine&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lissethkatherine&layout=compact&theme=radical&title_color=FF69B4&icon_color=FF69B4&hide_border=true" height="150" />
+### 👩‍💻 Mi Trayectoria de Aprendizaje
+He recorrido el camino desde la lógica básica hasta el desarrollo de scripts funcionales:
+
+- **Introducción a la Programación:** Conceptos base y resolución de problemas.
+- **PSeInt:** Diseño de algoritmos y pseudocódigo.
+- **Python 1:** Manejo de variables, estructuras de control, archivos JSON y lógica modular.
+- **GitHub:** Control de versiones y gestión de repositorios (¡en lo que estamos ahora! 🚀).
+
+### 🛠️ Herramientas y Tecnologías
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-  <p><strong>📍 Floridablanca, Santander, Colombia 🚀</strong></p>
-</div>
+### 📂 Proyectos Destacados
+<table>
+  <tr>
+    <td width="50%">
+      <h4>💰 Gestión de Gastos</h4>
+      <p>Mi primer proyecto sólido en Python. Usa archivos JSON para guardar datos y funciones modulares para organizar el código.</p>
+      <a href="TU_LINK_AQUÍ">Ver Proyecto →</a>
+    </td>
+    <td width="50%">
+      <h4>📝 Ejercicios de Lógica</h4>
+      <p>Colección de algoritmos desarrollados en PSeInt y convertidos a Python.</p>
+      <a href="TU_LINK_AQUÍ">Ver Ejercicios →</a>
+    </td>
+  </tr>
+</table>
+
+---
+<p align="center">"No te detengas hasta que te sientas orgullosa." ✨</p>
