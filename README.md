@@ -2,8 +2,9 @@
   <img src="https://drive.google.com/uc?export=download&id=12wyJy8_bv0lf2Z1E0CIMsMcOBkPvcN8F" width="450" />
   <br />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Apasionada+por+la+Tecnolog%C3%ADa;Futura+dev+construyendo+soluciones;Codeando+mi+camino+hacia+el+éxito" />
-  <br />
+  <img src="https://img.shields.io/badge/Apasionada_por_la_Tecnología-FF69B4?style=for-the-badge&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Futura_Dev-FF69B4?style=for-the-badge&logoColor=white" height="35" />
+  <br /><br />
 
   <p>
     <a href="https://www.linkedin.com/in/lisseth-katherine-zapata-cano-aa43543aa" target="_blank">
@@ -20,35 +21,30 @@
     </a>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=20&duration=1&color=FF69B4&center=true&vCenter=true&width=500&lines=%F0%9F%93%8D+Floridablanca%2C+Santander%2C+Colombia+%F0%9F%9A%80" />
+  <p><strong>📍 Floridablanca, Santander, Colombia 🚀</strong></p>
 </div>
 
 <hr />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=28&duration=1&color=FF69B4&width=450&lines=Trayectoria+de+Aprendizaje" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=18&duration=1&color=FFFFFF&width=600&lines=•+Introducción+a+la+Programación:+Lógica+y+fundamentos." />
-<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=18&duration=1&color=FFFFFF&width=600&lines=•+PSeInt:+Algoritmos+y+lógica+de+programación." />
-<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=18&duration=1&color=FFFFFF&width=600&lines=•+Python+1:+Manejo+de+variables+y+archivos+JSON." />
-<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=18&duration=1&color=FFFFFF&width=600&lines=•+GitHub:+Control+de+versiones+y+proyectos." />
-
-<br /><br />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=28&duration=1&color=FF69B4&width=450&lines=Proyecto+Destacado" />
+### 👩‍💻 Trayectoria de Aprendizaje
+* **Introducción a la Programación:** Lógica y fundamentos.
+* **PSeInt:** Algoritmos y lógica de programación.
+* **Python 1:** Manejo de variables, funciones y archivos JSON.
+* **GitHub:** Control de versiones y gestión de proyectos.
 
 <br />
-<a href="https://github.com/lissethkatherine/Proyecto_Python_LissethZapata">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=20&duration=1&color=FF69B4&width=800&lines=💰+Sistema+de+Gestión+de+Gastos+(Clic+aquí)" />
-</a>
+
+### 📁 Proyecto Destacado
+| Lenguaje | Proyecto | Descripción |
+| :---: | :--- | :--- |
+| 🐍 | **[Sistema de Gestión de Gastos](https://github.com/lissethkatherine/Proyecto_Python_LissethZapata)** | Aplicación de consola para administrar finanzas personales con JSON. |
+
 <br />
-<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=16&duration=1&color=FFFFFF&width=800&lines=Aplicación+de+consola+para+administrar+finanzas+con+JSON." />
 
-<br /><br />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=28&duration=1&color=FF69B4&width=450&lines=Tecnologías+y+Herramientas" />
-
+### 🛠️ Tecnologías y Herramientas
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
