@@ -20,36 +20,31 @@
     </a>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=20&duration=1&color=FF69B4&center=true&vCenter=true&width=500&lines=%F0%9F%93%8D+Floridablanca%2C+Santander%2C+Colombia+%F0%9F%9A%80" />
+  <img src="https://img.shields.io/badge/📍_Floridablanca,_Santander,_Colombia_🚀-FF69B4?style=flat-square&logoColor=white" height="25" />
 </div>
 
 <hr />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=28&duration=1&color=FF69B4&width=450&lines=Trayectoria+de+Aprendizaje" />
+### <img src="https://img.shields.io/badge/Trayectoria_de_Aprendizaje-FF69B4?style=for-the-badge" />
+
+* <img src="https://img.shields.io/badge/Introducción_a_la_Programación:_Lógica_y_fundamentos-white?style=flat-square&color=white&labelColor=333333" />
+* <img src="https://img.shields.io/badge/PSeInt:_Algoritmos_y_lógica_de_programación-white?style=flat-square&color=white&labelColor=333333" />
+* <img src="https://img.shields.io/badge/Python_1:_Manejo_de_variables_y_archivos_JSON-white?style=flat-square&color=white&labelColor=333333" />
+* <img src="https://img.shields.io/badge/GitHub:_Control_de_versiones_y_gestión_de_proyectos-white?style=flat-square&color=white&labelColor=333333" />
 
 <br />
-<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=18&duration=1&color=FFFFFF&width=600&lines=•+Introducción+a+la+Programación:+Lógica+y+fundamentos." />
-<br />
-<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=18&duration=1&color=FFFFFF&width=600&lines=•+PSeInt:+Algoritmos+y+lógica+de+programación." />
-<br />
-<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=18&duration=1&color=FFFFFF&width=600&lines=•+Python+1:+Manejo+de+variables+y+archivos+JSON." />
-<br />
-<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=18&duration=1&color=FFFFFF&width=600&lines=•+GitHub:+Control+de+versiones+y+gestión+de+proyectos." />
 
-<br /><br />
+### <img src="https://img.shields.io/badge/Proyecto_Destacado-FF69B4?style=for-the-badge" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=28&duration=1&color=FF69B4&width=450&lines=Proyecto+Destacado" />
-
-<br />
 <a href="https://github.com/lissethkatherine/Proyecto_Python_LissethZapata">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=20&duration=1&color=FF69B4&width=800&lines=💰+Sistema+de+Gestión+de+Gastos+(Ver+Código)" />
+  <img src="https://img.shields.io/badge/💰_Sistema_de_Gestión_de_Gastos_(Clic_Aquí)-FF69B4?style=for-the-badge" />
 </a>
 <br />
-<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=16&duration=1&color=FFFFFF&width=800&lines=Aplicación+de+consola+para+administrar+finanzas+personales+con+JSON." />
+<img src="https://img.shields.io/badge/Aplicación_de_consola_para_administrar_finanzas_personales_con_JSON-white?style=flat-square" />
 
 <br /><br />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=28&duration=1&color=FF69B4&width=450&lines=Tecnologías+y+Herramientas" />
+### <img src="https://img.shields.io/badge/Tecnologías_y_Herramientas-FF69B4?style=for-the-badge" />
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
