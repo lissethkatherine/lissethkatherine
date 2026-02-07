@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdWDWK8Sm8j6c39Q9LkpgsUx-tYWC-0w8euJcWZEBbG9HT3ellXrDFLD-w0Fsp6nkV57RrRkI8Uw71aPydK947gb38Qs0aCwa2owHQtVEDAm8kgTwSP1RtjaHf2yUrmFha9e4uxbj6Mjg/s1600/3D+variados+%252827%2529.gif" />
+  <img src="https://cliply.co/wp-content/uploads/2020/10/442010360_WINKING_AVATAR_3D_400px.gif" />
 </div>
 
 <div align="center">
