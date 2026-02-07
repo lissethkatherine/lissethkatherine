@@ -6,7 +6,7 @@
   <p>
     <a href="https://github.com/Kathryn-Jie">
       <img src="https://img.shields.io/github/followers/Kathryn-Jie?label=Followers&style=flat-square&color=FF69B4&logo=github&logoColor=white" />
-    </a>
+    <p>
     <a href="https://www.linkedin.com/in/lisseth-katherine-zapata-cano-aa43543aa" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=flat-square&logo=linkedin&logoColor=white" />
     </a>
