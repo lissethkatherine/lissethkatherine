@@ -29,9 +29,9 @@
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lissethkatherine&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&bg_color=1a1a1a&hide_border=true" height="150" alt="Estadísticas de Lisseth" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lissethkatherine&layout=compact&theme=radical&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&bg_color=1a1a1a&hide_border=true" height="150" alt="Lenguajes de Lisseth" />
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=lissethkatherine&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lissethkatherine&layout=compact&theme=radical&title_color=FF69B4&icon_color=FF69B4&hide_border=true" height="150" />
+</p>
 
   <p><strong>📍 Floridablanca, Santander, Colombia 🚀</strong></p>
 </div>
