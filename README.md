@@ -88,15 +88,12 @@ Utilizo la Inteligencia Artificial como un tutor y asistente técnico para eleva
 
 ---
 
-## 📊 Estadísticas de Actividad 
+## 📊 Actividad y Lenguajes
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lissethkatherine&show_icons=true&theme=dracula&count_private=true&title_color=FF69B4" alt="Estadísticas de Lisseth" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lissethkatherine&layout=compact&theme=dracula&title_color=FF69B4" alt="Lenguajes más usados" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lissethkatherine&layout=compact&theme=dracula&title_color=FF69B4" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lissethkatherine&theme=dracula&fire=FF69B4&sideNums=FF69B4&ring=FF69B4" width="45%" />
+</div>
 
 ---
 
