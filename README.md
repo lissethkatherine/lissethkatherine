@@ -27,17 +27,17 @@
 
 ## ⚡ Sobre Mí
 
-Soy una desarrolladora en formación con un enfoque disciplinado hacia la resolución de problemas lógicos. Mi trayectoria comenzó dominando los fundamentos con **PSeInt** y actualmente me especializo en la construcción de aplicaciones funcionales con **Python**.
+Soy una estudiante de programación con un enfoque disciplinado hacia la resolución de problemas. Mi formación académica me ha permitido construir una base sólida en lógica, pasando de herramientas didácticas como **PSeInt** al desarrollo de aplicaciones funcionales en **Python**.
 
-* 🔭 **Proyecto Actual:** Evolucionando mi Sistema de Gastos hacia una estructura más escalable.
-* 🌱 **Aprendizaje Continuo:** Explorando algoritmos complejos y buenas prácticas de Clean Code.
-* 🔍 **Perfil Profesional:** Me caracterizo por ser una investigadora autónoma, organizada en mi flujo de trabajo con Git y apasionada por la eficiencia.
+* 🚀 **Foco Académico:** Consolidación de conocimientos en estructuras de datos y persistencia.
+* 🌱 **Aprendizaje:** Actualmente profundizando en buenas prácticas de programación y optimización de código.
+* 🔍 **Perfil:** Metódica en el uso de Git y GitHub, con gran capacidad para la investigación autónoma y el uso de herramientas de IA para potenciar el desarrollo.
 
 ---
 
-## 🛠️ Stack Tecnológico & Herramientas
+## 🛠️ Stack Tecnológico & Formación
 
-### Lenguajes y Lógica Base
+### Lenguajes y Lógica
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PSeInt-2D79C7?style=for-the-badge&logo=codesandbox&logoColor=white" />
@@ -51,41 +51,40 @@ Soy una desarrolladora en formación con un enfoque disciplinado hacia la resolu
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-### Inteligencia Artificial (Estrategia de Desarrollo)
+### IA Aplicada al Aprendizaje
 <p align="left">
   <img src="https://img.shields.io/badge/Prompt_Engineering-FF69B4?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa1c?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
 ---
 
-## 🤖 Workflow con Inteligencia Artificial
+## 🤖 Metodología con IA
 
-Integro la IA no solo para codificar, sino como una herramienta de pensamiento crítico:
-- **Optimización de Lógica:** Uso de prompts avanzados para refactorizar ciclos y condicionales.
-- **Debugging y Análisis:** Identificación proactiva de errores y comprensión de excepciones en Python.
-- **Documentación:** Creación de comentarios técnicos precisos y explicaciones de flujo de datos.
-- **Investigación:** Consultas estratégicas para entender la arquitectura de archivos JSON y persistencia.
+Utilizo la Inteligencia Artificial como un tutor y asistente técnico para elevar la calidad de mis entregables académicos:
+- **Refactorización:** Mejora de la legibilidad de códigos complejos realizados en clase.
+- **Análisis de Errores:** Uso de prompts para desglosar excepciones de Python y entender la raíz del problema.
+- **Documentación Técnica:** Generación de comentarios claros y estructurados para cada función.
+- **Ampliación de Conceptos:** Consultas estratégicas para ir más allá de los temas vistos en el aula.
 
 ---
 
-## 🚀 Proyectos y Trayectoria Técnica
+## 📂 Portafolio de Proyectos Académicos
 
-| Categoría | Habilidad | Logro Principal |
-| :--- | :--- | :--- |
-| **Desarrollo Backend** | Python & JSON | **[Sistema de Gastos](https://github.com/lissethkatherine/Proyecto_Python_LissethZapata)**: Implementación de un CRUD completo con almacenamiento persistente. |
-| **Lógica Algorítmica** | PSeInt | Resolución de desafíos de lógica compleja y estructuras de control. |
-| **Arquitectura** | Git & GitHub | Gestión profesional de repositorios, control de ramas y versionamiento. |
+| Proyecto | Tecnologías | Descripción | Aprendizaje Clave |
+| :--- | :---: | :--- | :--- |
+| **[Sistema de Gastos](https://github.com/lissethkatherine/Proyecto_Python_LissethZapata)** | `Python` `JSON` | Desarrollo de lógica CRUD con almacenamiento en archivos planos. | Manejo de persistencia de datos y diccionarios. |
+| **Lógica Algorítmica** | `PSeInt` | Implementación de algoritmos de control, ciclos y condicionales. | Desarrollo del pensamiento lógico estructural. |
+| **Workflow GitHub** | `Git` | Gestión de repositorios para el seguimiento de actividades de clase. | Flujo de trabajo profesional y control de versiones. |
 
 ---
 
 ## 🌟 Habilidades Blandas (Soft Skills)
 
-* 🧠 **Análisis de Problemas:** Capacidad para desglosar requerimientos en tareas técnicas ejecutables.
-* 📚 **Autogestión:** Fuerte enfoque en la investigación autónoma y aprendizaje de nuevas librerías.
-* ✍️ **Documentación:** Pasión por mantener repositorios limpios, con Readmes claros y código legible.
-* 🤝 **Adaptabilidad:** Apertura para aprender nuevas tecnologías y ajustar flujos de trabajo según las necesidades del proyecto.
+* 🧠 **Resolución de Problemas:** Capacidad para desglosar retos lógicos en pasos ejecutables.
+* 📚 **Investigación Autónoma:** Habilidad para encontrar soluciones técnicas de forma independiente.
+* ✍️ **Orden y Estructura:** Compromiso con la limpieza del código y la organización de archivos.
+* 🤝 **Comunicación Técnica:** Claridad al explicar procesos y documentar desarrollos.
 
 ---
 
@@ -98,18 +97,18 @@ Integro la IA no solo para codificar, sino como una herramienta de pensamiento c
 
 ---
 
-## 🌈 Más allá del Código
+## 🌈 Intereses y Hobbies
 
-Me considero una persona creativa y curiosa, lo cual se refleja en mis intereses:
-- ☕ **Cultura del Café:** El combustible perfecto para una sesión de debugging.
-- 📸 **Fotografía:** Capturar la estética de los momentos cotidianos.
-- ✈️ **Viajes:** Explorar nuevas perspectivas y culturas para enriquecer mi visión del mundo.
-- 🎶 **Música:** Compañera indispensable durante las jornadas de desarrollo.
+Fuera del entorno académico, disfruto de:
+- ☕ **Café y Código:** El balance perfecto para la concentración.
+- 📸 **Fotografía:** Capturar la estética visual de mi entorno.
+- ✈️ **Exploración:** Viajar y conocer nuevas perspectivas.
+- 🎶 **Música:** Elemento esencial en mi proceso creativo.
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lissethkatherine&color=FF69B4&style=flat-square&label=VISITAS+AL+PERFIL" alt="Visitas" />
   <br /><br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=20&duration=1&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Gracias+por+explorar+mi+mundo+digital+🚀;Transformando+ideas+en+código." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=20&duration=1&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Gracias+por+visitar+mi+perfil+académico!+🚀;Aprendiendo+y+construyendo+día+a+día." />
 </div>
