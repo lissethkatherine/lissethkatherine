@@ -2,7 +2,7 @@
   <img src="https://drive.google.com/uc?export=download&id=12wyJy8_bv0lf2Z1E0CIMsMcOBkPvcN8F" width="450" />
   <br />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=¡Hola!+Soy+Lisseth+Zapata;Apasionada+por+la+Tecnología;Futura+Developer+Backend;Especializándome+en+Python" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=¡Hola!+Soy+Lisseth+Zapata;Apasionada+por+la+Tecnología;Futura+Developer+Backend;Codeando+mi+camino+al+éxito" />
   <br />
 
   <p>
@@ -27,92 +27,89 @@
 
 ## ⚡ Sobre Mí
 
-Soy una estudiante de desarrollo de software con un enfoque en la creación de soluciones eficientes y escalables. Mi camino comenzó con la lógica pura en **PSeInt** y ha evolucionado hacia el dominio de **Python** y herramientas modernas de colaboración.
+Soy una desarrolladora en formación con un enfoque disciplinado hacia la resolución de problemas lógicos. Mi trayectoria comenzó dominando los fundamentos con **PSeInt** y actualmente me especializo en la construcción de aplicaciones funcionales con **Python**.
 
-* 🔭 **Proyecto Actual:** Optimizando mi Sistema de Gestión de Gastos con persistencia JSON.
-* 🌱 **En Aprendizaje:** Profundizando en estructuras de datos avanzadas y lógica de programación competitiva.
-* 🔍 **Perfil:** Me destaco por mi curiosidad técnica, mi capacidad de autoaprendizaje y mi atención al detalle en el control de versiones.
+* 🔭 **Proyecto Actual:** Evolucionando mi Sistema de Gastos hacia una estructura más escalable.
+* 🌱 **Aprendizaje Continuo:** Explorando algoritmos complejos y buenas prácticas de Clean Code.
+* 🔍 **Perfil Profesional:** Me caracterizo por ser una investigadora autónoma, organizada en mi flujo de trabajo con Git y apasionada por la eficiencia.
 
 ---
 
 ## 🛠️ Stack Tecnológico & Herramientas
 
-### Lenguajes y Lógica
+### Lenguajes y Lógica Base
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PSeInt-2D79C7?style=for-the-badge&logo=codesandbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
-### Entornos y Control de Versiones
+### Control de Versiones y Entorno
 <p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-### Inteligencia Artificial (Prompt Engineering)
+### Inteligencia Artificial (Estrategia de Desarrollo)
 <p align="left">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF69B4?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa1c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
 ---
 
-## 🤖 Uso de IA en mi Flujo de Trabajo
+## 🤖 Workflow con Inteligencia Artificial
 
-No solo utilizo la IA para generar código, sino como un **asistente estratégico** para mejorar mi productividad:
-1.  **Debugging Asistido:** Identificación rápida de errores de sintaxis y lógica.
-2.  **Optimización:** Refactorización de algoritmos para hacerlos más legibles y eficientes.
-3.  **Documentación:** Generación de comentarios técnicos y explicaciones de funciones complejas.
-4.  **Aprendizaje:** Uso de prompts para entender conceptos profundos de la arquitectura de Python.
+Integro la IA no solo para codificar, sino como una herramienta de pensamiento crítico:
+- **Optimización de Lógica:** Uso de prompts avanzados para refactorizar ciclos y condicionales.
+- **Debugging y Análisis:** Identificación proactiva de errores y comprensión de excepciones en Python.
+- **Documentación:** Creación de comentarios técnicos precisos y explicaciones de flujo de datos.
+- **Investigación:** Consultas estratégicas para entender la arquitectura de archivos JSON y persistencia.
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos y Trayectoria Técnica
 
-| Proyecto | Tecnologías | Descripción | Aprendizaje Clave |
-| :--- | :---: | :--- | :--- |
-| **[Sistema de Gastos](https://github.com/lissethkatherine/Proyecto_Python_LissethZapata)** | `Python` `JSON` | Gestión financiera con almacenamiento persistente de datos. | Manejo de archivos y diccionarios anidados. |
-| **Algoritmos Lógicos** | `PSeInt` `Python` | Repositorio de desafíos lógicos resueltos durante mi formación. | Transición exitosa de pseudocódigo a lenguaje real. |
+| Categoría | Habilidad | Logro Principal |
+| :--- | :--- | :--- |
+| **Desarrollo Backend** | Python & JSON | **[Sistema de Gastos](https://github.com/lissethkatherine/Proyecto_Python_LissethZapata)**: Implementación de un CRUD completo con almacenamiento persistente. |
+| **Lógica Algorítmica** | PSeInt | Resolución de desafíos de lógica compleja y estructuras de control. |
+| **Arquitectura** | Git & GitHub | Gestión profesional de repositorios, control de ramas y versionamiento. |
 
 ---
 
 ## 🌟 Habilidades Blandas (Soft Skills)
 
-* 🧠 **Pensamiento Crítico:** Capacidad para desglosar problemas complejos en tareas pequeñas.
-* 📚 **Autoaprendizaje:** Habilidad para investigar y aplicar nuevas tecnologías de forma autónoma.
-* 🤝 **Comunicación:** Enfoque en documentar procesos para que otros puedan entender mi código.
-* 🎨 **Creatividad:** Búsqueda de soluciones innovadoras ante retos técnicos.
+* 🧠 **Análisis de Problemas:** Capacidad para desglosar requerimientos en tareas técnicas ejecutables.
+* 📚 **Autogestión:** Fuerte enfoque en la investigación autónoma y aprendizaje de nuevas librerías.
+* ✍️ **Documentación:** Pasión por mantener repositorios limpios, con Readmes claros y código legible.
+* 🤝 **Adaptabilidad:** Apertura para aprender nuevas tecnologías y ajustar flujos de trabajo según las necesidades del proyecto.
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
+## 📊 Estadísticas de GitHub 
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=lissethkatherine&show_icons=true&theme=dracula&title_color=FF69B4&icon_color=FF69B4" alt="Estadísticas Generales" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lissethkatherine&layout=compact&theme=dracula&title_color=FF69B4" alt="Lenguajes más usados" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lissethkatherine&show_icons=true&theme=rose_pine&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF&bg_color=1f1d2e" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lissethkatherine&layout=compact&theme=rose_pine&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF&bg_color=1f1d2e" width="43%" />
+</div>
 
 ---
 
-## 🌈 Intereses Personales
+## 🌈 Más allá del Código
 
-Además de programar, me apasiona:
-* 📸 La fotografía y capturar momentos únicos.
-* ☕ El buen café mientras resuelvo errores de código.
-* ✈️ Explorar nuevos lugares y culturas.
-* 🎵 Escuchar música para concentrarme al máximo.
+Me considero una persona creativa y curiosa, lo cual se refleja en mis intereses:
+- ☕ **Cultura del Café:** El combustible perfecto para una sesión de debugging.
+- 📸 **Fotografía:** Capturar la estética de los momentos cotidianos.
+- ✈️ **Viajes:** Explorar nuevas perspectivas y culturas para enriquecer mi visión del mundo.
+- 🎶 **Música:** Compañera indispensable durante las jornadas de desarrollo.
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lissethkatherine&color=FF69B4&style=flat-square&label=VISITAS+AL+PERFIL" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=lissethkatherine&color=FF69B4&style=flat-square&label=VISITAS+AL+PERFIL" alt="Visitas" />
   <br /><br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=20&duration=1&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=¡Gracias+por+llegar+hasta+aquí!+🚀;Construyendo+el+futuro+línea+a+línea." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=20&duration=1&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Gracias+por+explorar+mi+mundo+digital+🚀;Transformando+ideas+en+código." />
 </div>
