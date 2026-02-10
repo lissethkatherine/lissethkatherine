@@ -2,14 +2,14 @@
   <img src="https://drive.google.com/uc?export=download&id=12wyJy8_bv0lf2Z1E0CIMsMcOBkPvcN8F" width="450" />
   <br />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=¡Hola!+Soy+Lisseth+Zapata;Apasionada+por+la+Tecnología;Futura+Developer+Backend;Transformando+Lógica+en+Código" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Apasionada+por+la+Tecnología;Futura+Developer+Backend;Transformando+Lógica+en+Código" />
   <br />
 
   <p>
     <a href="https://www.linkedin.com/in/lisseth-katherine-zapata-cano-aa43543aa" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:katherinecano02@gmail.com">
+    <a href="mailto:katherinecano020@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.instagram.com/liss.cano9?igsh=MTY0a2QzZDAwNjFieA==" target="_blank">
