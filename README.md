@@ -2,18 +2,15 @@
   <img src="https://drive.google.com/uc?export=download&id=12wyJy8_bv0lf2Z1E0CIMsMcOBkPvcN8F" width="450" />
   <br />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Apasionada+por+la+Tecnología;Futura+Developer+Backend;Codeando+mi+camino+al+éxito" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=¡Hola!+Soy+Lisseth+Zapata;Apasionada+por+la+Tecnología;Futura+Developer+Backend;Transformando+Lógica+en+Código" />
   <br />
 
   <p>
     <a href="https://www.linkedin.com/in/lisseth-katherine-zapata-cano-aa43543aa" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:katherinecano020@gmail.com">
+    <a href="mailto:katherinecano02@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://x.com/Lisseth_015" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
     </a>
     <a href="https://www.instagram.com/liss.cano9?igsh=MTY0a2QzZDAwNjFieA==" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -25,90 +22,83 @@
 
 <hr />
 
-## ⚡ Sobre Mí
+## ⚡ Sobre Mí: Mi Camino en el Código
 
-Soy una estudiante de programación con un enfoque disciplinado hacia la resolución de problemas. Mi formación académica me ha permitido construir una base sólida en lógica, pasando de herramientas didácticas como **PSeInt** al desarrollo de aplicaciones funcionales en **Python**.
+Soy una estudiante de programación con base en **Santander**, dedicada a construir una carrera sólida en el desarrollo de software. Mi enfoque principal es la **lógica de backend**, donde disfruto estructurando procesos que resuelven problemas reales.
 
-* 🚀 **Foco Académico:** Consolidación de conocimientos en estructuras de datos y persistencia.
-* 🌱 **Aprendizaje:** Actualmente profundizando en buenas prácticas de programación y optimización de código.
-* 🔍 **Perfil:** Metódica en el uso de Git y GitHub, con gran capacidad para la investigación autónoma y el uso de herramientas de IA para potenciar el desarrollo.
+- 🏫 **Formación:** Actualmente centrada en algoritmos y estructuras de datos.
+- 💡 **Filosofía de Aprendizaje:** Creo en el poder de la práctica diaria y en la curiosidad constante.
+- 🛠️ **Herramientas de cabecera:** Mi flujo de trabajo se basa en la limpieza de código en **VS Code** y el rigor del control de versiones con **Git**.
 
 ---
 
-## 🛠️ Stack Tecnológico & Formación
+## 🛠️ Mi Stack Tecnológico
 
-### Lenguajes y Lógica
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PSeInt-2D79C7?style=for-the-badge&logo=codesandbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-</p>
+A medida que avanzo en mi formación académica, he adoptado herramientas que potencian mi capacidad técnica:
 
-### Control de Versiones y Entorno
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
-### IA Aplicada al Aprendizaje
-<p align="left">
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FF69B4?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-74aa1c?style=for-the-badge&logo=openai&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,py,md,ai,discord,postman&theme=dark" />
 </p>
 
 ---
 
-## 🤖 Metodología con IA
+## 📂 Portafolio Académico y Retos Superados
 
-Utilizo la Inteligencia Artificial como un tutor y asistente técnico para elevar la calidad de mis entregables académicos:
-- **Refactorización:** Mejora de la legibilidad de códigos complejos realizados en clase.
-- **Análisis de Errores:** Uso de prompts para desglosar excepciones de Python y entender la raíz del problema.
-- **Documentación Técnica:** Generación de comentarios claros y estructurados para cada función.
-- **Ampliación de Conceptos:** Consultas estratégicas para ir más allá de los temas vistos en el aula.
+He convertido cada ejercicio de clase en una oportunidad para documentar y aprender. Aquí algunos hitos de mi aprendizaje:
 
----
-
-## 📂 Portafolio de Proyectos Académicos
-
-| Proyecto | Tecnologías | Descripción | Aprendizaje Clave |
-| :--- | :---: | :--- | :--- |
-| **[Sistema de Gastos](https://github.com/lissethkatherine/Proyecto_Python_LissethZapata)** | `Python` `JSON` | Desarrollo de lógica CRUD con almacenamiento en archivos planos. | Manejo de persistencia de datos y diccionarios. |
-| **Lógica Algorítmica** | `PSeInt` | Implementación de algoritmos de control, ciclos y condicionales. | Desarrollo del pensamiento lógico estructural. |
-| **Workflow GitHub** | `Git` | Gestión de repositorios para el seguimiento de actividades de clase. | Flujo de trabajo profesional y control de versiones. |
+| Proyecto / Reto | Tecnologías | Descripción Técnica |
+| :--- | :---: | :--- |
+| **[Sistema de Gastos](https://github.com/lissethkatherine/Proyecto_Python_LissethZapata)** | `Python` `JSON` | Aplicación de consola con CRUD funcional y persistencia de datos mediante almacenamiento en archivos planos. |
+| **Fundamentos Lógicos** | `PSeInt` | Desarrollo de más de 50 ejercicios de lógica estructural, bucles y condicionales anidados. |
+| **Gestión de Versiones** | `GitHub` | Implementación de un flujo de trabajo basado en ramas y commits descriptivos para cada entrega. |
 
 ---
 
-## 🌟 Habilidades Blandas (Soft Skills)
+## 🤖 El Rol de la Inteligencia Artificial
 
-* 🧠 **Resolución de Problemas:** Capacidad para desglosar retos lógicos en pasos ejecutables.
-* 📚 **Investigación Autónoma:** Habilidad para encontrar soluciones técnicas de forma independiente.
-* ✍️ **Orden y Estructura:** Compromiso con la limpieza del código y la organización de archivos.
-* 🤝 **Comunicación Técnica:** Claridad al explicar procesos y documentar desarrollos.
+No solo programo; diseño estrategias de desarrollo apoyadas en IA. Utilizo técnicas de **Prompt Engineering** para:
+1. **Análisis de Complejidad:** Entender cómo optimizar mis ciclos en Python.
+2. **Refactorización Académica:** Transformar ejercicios de clase en código siguiendo estándares profesionales.
+3. **Autocorrección:** Explicar excepciones y errores de sintaxis para evitar repetirlos.
 
 ---
 
-## 📊 Actividad y Lenguajes
+## 🌟 Habilidades Blandas (Human Skills)
+
+* **Pensamiento Analítico:** Capacidad para descomponer problemas grandes en micro-tareas.
+* **Disciplina de Estudio:** Mantengo un ritmo constante de contribuciones y commits (¡mira mi racha abajo!).
+* **Documentación:** Me esfuerzo por escribir código que no solo funcione, sino que sea fácil de leer para otros.
+
+---
+
+## 📊 Mi Actividad en Tiempo Real
+
+Como puedes ver, mi compromiso con el código es diario:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lissethkatherine&layout=compact&theme=dracula&title_color=FF69B4" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lissethkatherine&theme=dracula&fire=FF69B4&sideNums=FF69B4&ring=FF69B4" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lissethkatherine&theme=dracula&fire=FF69B4&sideNums=FF69B4&ring=FF69B4" width="85%" />
 </div>
 
 ---
 
-## 🌈 Intereses y Hobbies
+## 🎯 Próximos Objetivos
+Aunque ya domino las bases de Python y PSeInt, mi meta es seguir expandiendo mi stack hacia:
+- [ ] Bases de Datos (SQL).
+- [ ] Desarrollo de APIs básicas.
+- [ ] Profundización en Programación Orientada a Objetos (POO).
 
-Fuera del entorno académico, disfruto de:
-- ☕ **Café y Código:** El balance perfecto para la concentración.
-- 📸 **Fotografía:** Capturar la estética visual de mi entorno.
-- ✈️ **Exploración:** Viajar y conocer nuevas perspectivas.
-- 🎶 **Música:** Elemento esencial en mi proceso creativo.
+---
+
+## 🌈 Intereses Personales
+
+- ☕ **Entusiasta del Café:** Mi compañero en cada línea de código.
+- 📸 **Fotografía:** Capturando la realidad fuera de la pantalla.
+- 🎶 **Música para Programar:** Lofi y música instrumental para máxima concentración.
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lissethkatherine&color=FF69B4&style=flat-square&label=VISITAS+AL+PERFIL" alt="Visitas" />
   <br /><br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=20&duration=1&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Gracias+por+visitar+mi+perfil+académico!+🚀;Aprendiendo+y+construyendo+día+a+día." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=20&duration=1&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=¡Gracias+por+revisar+mi+progreso!+🚀;Lisseth+Zapata+-+Dev+en+construcción." />
 </div>
