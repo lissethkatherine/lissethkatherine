@@ -2,7 +2,7 @@
   <img src="https://drive.google.com/uc?export=download&id=12wyJy8_bv0lf2Z1E0CIMsMcOBkPvcN8F" width="450" />
   <br />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=¡Hola!+Soy+Lisseth+Zapata;Apasionada+por+la+Tecnología;Futura+Developer+Backend;Codeando+mi+camino+al+éxito" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Apasionada+por+la+Tecnología;Futura+Developer+Backend;Codeando+mi+camino+al+éxito" />
   <br />
 
   <p>
