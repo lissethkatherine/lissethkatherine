@@ -12,10 +12,6 @@
     <a href="mailto:katherinecano020@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.instagram.com/liss.cano9?igsh=MTY0a2QzZDAwNjFieA==" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-  </p>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=22&duration=1&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&repeat=false&lines=%F0%9F%93%8D+Floridablanca%2C+Santander%2C+Colombia+%F0%9F%9A%80" />
 </div>
