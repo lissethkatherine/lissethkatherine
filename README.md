@@ -2,7 +2,7 @@
   <img src="https://drive.google.com/uc?export=download&id=12wyJy8_bv0lf2Z1E0CIMsMcOBkPvcN8F" width="450" />
   <br />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Apasionada+por+la+Tecnología;Futura+Developer+Backend;Transformando+Lógica+en+Código" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Estudiante+de+Desarrollo+de+Software;Apasionada+por+la+Tecnología;Backend+Developer+en+Formación" />
   <br />
 
   <p>
@@ -14,63 +14,85 @@
     </a>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=22&duration=1&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&repeat=false&lines=%F0%9F%93%8D+Floridablanca%2C+Santander%2C+Colombia+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=22&duration=1&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&repeat=false&lines=📍+Floridablanca,+Santander,+Colombia+🚀" />
 </div>
 
 <hr />
 
-## ⚡ Sobre Mí: Mi Camino en el Código
+## ⚡ Sobre Mí
 
-Soy una estudiante de programación con base en **Santander**, dedicada a construir una carrera sólida en el desarrollo de software. Mi enfoque principal es la **lógica de backend**, donde disfruto estructurando procesos que resuelven problemas reales.
+Soy estudiante de desarrollo de software con interés en programación, inteligencia artificial y desarrollo backend. Me encuentro fortaleciendo mis conocimientos mediante proyectos académicos y aprendizaje constante, aplicando buenas prácticas de programación, control de versiones y metodologías ágiles.
 
-- 🏫 **Formación:** Actualmente centrada en algoritmos y estructuras de datos.
-- 💡 **Filosofía de Aprendizaje:** Creo en el poder de la práctica diaria y en la curiosidad constante.
-- 🛠️ **Herramientas de cabecera:** Mi flujo de trabajo se basa en la limpieza de código en **VS Code** y el rigor del control de versiones con **Git**.
+* 🏫 Formación en programación, desarrollo web y bases de datos.
+* 💡 Interés en Backend, IA y automatización.
+* 🚀 Aprendizaje continuo mediante proyectos prácticos.
+* 🤝 Trabajo colaborativo con metodologías ágiles.
 
 ---
 
 ## 🛠️ Mi Stack Tecnológico
 
-A medida que avanzo en mi formación académica, he adoptado herramientas que potencian mi capacidad técnica:
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,py,md,ai,discord,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,mysql,discord&theme=dark" />
 </p>
 
----
+### Conocimientos
 
-## 📂 Portafolio Académico y Retos Superados
-
-He convertido cada ejercicio de clase en una oportunidad para documentar y aprender. Aquí algunos hitos de mi aprendizaje:
-
-| Proyecto / Reto | Tecnologías | Descripción Técnica |
-| :--- | :---: | :--- |
-| **[Sistema de Gastos](https://github.com/lissethkatherine/Proyecto_Python_LissethZapata)** | `Python` `JSON` | Aplicación de consola con CRUD funcional y persistencia de datos mediante almacenamiento en archivos planos. |
-| **Fundamentos Lógicos** | `PSeInt` | Desarrollo de más de 50 ejercicios de lógica estructural, bucles y condicionales anidados. |
-| **Gestión de Versiones** | `GitHub` | Implementación de un flujo de trabajo basado en ramas y commits descriptivos para cada entrega. |
-
----
-
-## 🤖 El Rol de la Inteligencia Artificial
-
-No solo programo; diseño estrategias de desarrollo apoyadas en IA. Utilizo técnicas de **Prompt Engineering** para:
-1. **Análisis de Complejidad:** Entender cómo optimizar mis ciclos en Python.
-2. **Refactorización Académica:** Transformar ejercicios de clase en código siguiendo estándares profesionales.
-3. **Autocorrección:** Explicar excepciones y errores de sintaxis para evitar repetirlos.
+* Python
+* HTML y CSS
+* JavaScript
+* Git y GitHub
+* Bases de Datos y MySQL
+* Scrum y Metodologías Ágiles
+* Inteligencia Artificial aplicada al desarrollo
+* Visual Studio Code
 
 ---
 
-## 🌟 Habilidades Blandas (Human Skills)
+## 📂 Proyectos Destacados
 
-* **Pensamiento Analítico:** Capacidad para descomponer problemas grandes en micro-tareas.
-* **Disciplina de Estudio:** Mantengo un ritmo constante de contribuciones y commits (¡mira mi racha abajo!).
-* **Documentación:** Me esfuerzo por escribir código que no solo funcione, sino que sea fácil de leer para otros.
+| Proyecto                                                                                                             |        Tecnologías       | Descripción                                                                                                                                    |
+| :------------------------------------------------------------------------------------------------------------------- | :----------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[SmartCity-Fix](https://github.com/lissethkatherine/Proyecto_Smartcityfix_D2)**                                    | `Python` `IA` `Telegram` | Sistema inteligente de reportes urbanos que clasifica incidencias automáticamente y permite consultar el estado de los tickets en tiempo real. |
+| **[Mi Calendario de Ahorros Inteligente](https://github.com/lissethkatherine/Mi-Calendario-de-Ahorros-Inteligente)** |       `HTML` `CSS`       | Página web para el seguimiento de metas de ahorro personal.                                                                                    |
+| **Fundamentos de Programación**                                                                                      |         `Python`         | Desarrollo de ejercicios de lógica, estructuras condicionales, ciclos y resolución de problemas.                                               |
 
 ---
 
-## 📊 Mi Actividad en Tiempo Real
+## 🤖 Inteligencia Artificial
 
-Como puedes ver, mi compromiso con el código es diario:
+Utilizo herramientas de IA para potenciar mi aprendizaje y mejorar mis proyectos mediante:
+
+* Generación y optimización de código.
+* Comprensión de errores y depuración.
+* Prompt Engineering.
+* Documentación y análisis de proyectos.
+* Apoyo en el aprendizaje de nuevas tecnologías.
+
+---
+
+## 🌟 Habilidades Blandas
+
+* Pensamiento Analítico.
+* Resolución de Problemas.
+* Trabajo en Equipo.
+* Comunicación Efectiva.
+* Adaptabilidad.
+* Responsabilidad.
+* Aprendizaje Autónomo.
+* Gestión del Tiempo.
+
+---
+
+## 🎯 Próximos Objetivos
+
+* [ ] Profundizar en MySQL.
+* [ ] Construir APIs con Python.
+* [ ] Aprender Programación Orientada a Objetos.
+* [ ] Desarrollar más proyectos backend.
+* [ ] Fortalecer conocimientos en IA aplicada.
+
+---
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lissethkatherine&theme=dracula&fire=FF69B4&sideNums=FF69B4&ring=FF69B4" width="85%" />
@@ -78,24 +100,8 @@ Como puedes ver, mi compromiso con el código es diario:
 
 ---
 
-## 🎯 Próximos Objetivos
-Aunque ya domino las bases de Python y PSeInt, mi meta es seguir expandiendo mi stack hacia:
-- [ ] Bases de Datos (SQL).
-- [ ] Desarrollo de APIs básicas.
-- [ ] Profundización en Programación Orientada a Objetos (POO).
-
----
-
-## 🌈 Intereses Personales
-
-- ☕ **Entusiasta del Café:** Mi compañero en cada línea de código.
-- 📸 **Fotografía:** Capturando la realidad fuera de la pantalla.
-- 🎶 **Música para Programar:** Lofi y música instrumental para máxima concentración.
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lissethkatherine&color=FF69B4&style=flat-square&label=VISITAS+AL+PERFIL" alt="Visitas" />
   <br /><br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=20&duration=1&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=¡Gracias+por+revisar+mi+progreso!+🚀;Lisseth+Zapata+-+Dev+en+construcción." />
+  <h3>✨ Gracias por visitar mi perfil ✨</h3>
 </div>
