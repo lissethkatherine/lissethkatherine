@@ -58,14 +58,15 @@ Soy estudiante de desarrollo de software con interés en programación, intelige
 
 
 ---
-
 ## 📂 Proyectos Destacados
 
-| Proyecto                                                                                                             |        Tecnologías       | Descripción                                                                                                                                    |
-| :------------------------------------------------------------------------------------------------------------------- | :----------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[SmartCity-Fix](https://github.com/lissethkatherine/Proyecto_Smartcityfix_D2)**                                    | `Python` `IA` `Telegram` | Sistema inteligente de reportes urbanos que clasifica incidencias automáticamente y permite consultar el estado de los tickets en tiempo real. |
-| **[Mi Calendario de Ahorros Inteligente](https://github.com/lissethkatherine/Mi-Calendario-de-Ahorros-Inteligente)** |       `HTML` `CSS`       | Página web para el seguimiento de metas de ahorro personal.                                                                                    |
-| **Fundamentos de Programación**                                                                                      |         `Python`         | Desarrollo de ejercicios de lógica, estructuras condicionales, ciclos y resolución de problemas.                                               |
+| Proyecto | Tecnologías | Descripción |
+| :-- | :--: | :-- |
+| **[Analizador de Tickets IA](https://github.com/lissethkatherine/Analizador-de-tickets-IA2)** | `Java 21` `Spring Boot` `PostgreSQL` `n8n` `Qdrant` `Docker` | Analizador de tickets de soporte con RAG: n8n y Qdrant buscan casos similares por embeddings, un LLM (gpt-4.1-mini vía OpenRouter) genera el análisis y Spring Boot guarda el historial en PostgreSQL. |
+| **[Sistema de Gestión de Vuelos y Aeropuertos](https://github.com/lissethkatherine/Sistema-de-Gestion-de-Vuelos-y-Aeropuertos)** | `Java` `POO` | Aplicación de consola para gestionar aeropuertos, vuelos, pasajeros y pilotos, aplicando herencia, polimorfismo, genéricos, colecciones y excepciones personalizadas. |
+| **[SmartCity-Fix](https://github.com/lissethkatherine/Proyecto_Smartcityfix_D2)** | `Python` `IA` `Telegram` | Sistema inteligente de reportes urbanos que clasifica incidencias automáticamente y permite consultar el estado de los tickets en tiempo real. |
+| **[Mi Calendario de Ahorros Inteligente](https://github.com/lissethkatherine/Mi-Calendario-de-Ahorros-Inteligente)** | `HTML` `CSS` | Página web para el seguimiento de metas de ahorro personal. |
+| **Fundamentos de Programación** | `Python` | Desarrollo de ejercicios de lógica, estructuras condicionales, ciclos y resolución de problemas. |
 
 ---
 
