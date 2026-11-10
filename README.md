@@ -50,6 +50,11 @@ Soy estudiante de desarrollo de software con interés en programación, intelige
 * Visual Studio Code
 * Bots de Telegram
 * Discord
+* PostgreSQL
+* Docker y Docker Compose
+* n8n (automatización de flujos)
+* RAG y bases de datos vectoriales (Qdrant)
+
 
 
 ---
