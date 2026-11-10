@@ -39,6 +39,8 @@ Soy estudiante de desarrollo de software con interés en programación, intelige
 ### Conocimientos
 
 * Python
+* Java
+* Spring Boot
 * HTML y CSS
 * JavaScript
 * Git y GitHub
@@ -46,6 +48,9 @@ Soy estudiante de desarrollo de software con interés en programación, intelige
 * Scrum y Metodologías Ágiles
 * Inteligencia Artificial aplicada al desarrollo
 * Visual Studio Code
+* Bots de Telegram
+* Discord
+
 
 ---
 
