@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.svg" alt="Lisseth Zapata, Backend Developer en formación" width="100%" />
+  <img src="banner.svg" alt="Lisseth Zapata, Backend Developer" width="100%" />
 
   <p>Bucaramanga, Santander, Colombia</p>
 
