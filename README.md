@@ -44,7 +44,7 @@ Estudiante de desarrollo de software enfocada en backend, inteligencia artificia
 | **[Analizador de Tickets IA](https://github.com/lissethkatherine/Analizador-de-tickets-IA2)** | `Java 21` `Spring Boot` `PostgreSQL` `n8n` `Qdrant` `Docker` | Analiza tickets de soporte con RAG: n8n y Qdrant buscan casos similares por embeddings, un LLM (gpt-4.1-mini vía OpenRouter) genera el análisis y Spring Boot guarda el historial en PostgreSQL. |
 | **[Sistema de Gestión de Vuelos y Aeropuertos](https://github.com/lissethkatherine/Sistema-de-Gestion-de-Vuelos-y-Aeropuertos)** | `Java` `POO` | Aplicación de consola para gestionar aeropuertos, vuelos, pasajeros y pilotos, con herencia, polimorfismo, genéricos, colecciones y excepciones personalizadas. |
 | **[SmartCity-Fix](https://github.com/lissethkatherine/Proyecto_Smartcityfix_D2)** | `Python` `IA` `Telegram` | Sistema de reportes urbanos que clasifica incidencias automáticamente y permite consultar el estado de los tickets en tiempo real. |
-| **[Mi Calendario de Ahorros Inteligente](https://github.com/lissethkatherine/Mi-Calendario-de-Ahorros-Inteligente)** | `HTML` `CSS` | Página web para el seguimiento de metas de ahorro personal. |
+| **[Mi Calendario de Ahorros Inteligente](https://lissethkatherine.github.io/Mi-Calendario-de-Ahorros-Inteligente/)** | `HTML` `CSS` | Página web para el seguimiento de metas de ahorro personal. |
 
 ## Uso de IA en mi trabajo
 
