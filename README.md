@@ -9,6 +9,10 @@
   <a href="mailto:katherinecano020@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://github.com/lissethkatherine/lissethkatherine/raw/main/CV-Lisseth-Zapata.pdf">
+  <img src="https://img.shields.io/badge/Hoja_de_vida-3A312B?style=for-the-badge&logo=readme&logoColor=E0A97F" alt="Hoja de vida" />
+</a>
+
 </div>
 
 ---
