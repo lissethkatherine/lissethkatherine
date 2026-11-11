@@ -62,13 +62,15 @@ Uso herramientas de IA como apoyo para generar y optimizar código, entender err
 
 Pensamiento analítico, resolución de problemas, trabajo en equipo, comunicación efectiva, adaptabilidad, responsabilidad, aprendizaje autónomo y gestión del tiempo.
 
-## 🎯 Próximos Objetivos
+## 🎯 En qué me enfoco ahora
 
-* [ ] Conseguir mi primera experiencia laboral o práctica como Backend Developer.
-* [ ] Certificarme en Java y en servicios cloud (por ejemplo, Oracle Java o AWS Cloud Practitioner).
-* [ ] Contribuir a proyectos open source para ganar experiencia en equipos reales.
-* [ ] Fortalecer mi inglés técnico para trabajar con equipos internacionales.
- 
+- Seguir fortaleciendo mis conocimientos en desarrollo backend.
+- Desarrollar proyectos que me permitan aprender y aportar valor.
+- Mantenerme actualizada con nuevas tecnologías, incluida la IA aplicada.
+
+## Qué busco
+
+Una oportunidad donde pueda aportar, seguir creciendo profesionalmente y trabajar en equipo.
 
 ---
 
