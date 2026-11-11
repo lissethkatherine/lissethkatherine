@@ -3,6 +3,10 @@
 
   <p>Bucaramanga, Santander, Colombia</p>
 
+  <a href="https://portofolio-lisseth.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-1B3A6B?style=for-the-badge&logo=vercel&logoColor=D4A84B" alt="Portafolio" />
+  </a>
+
   <a href="https://www.linkedin.com/in/lisseth-katherine-zapata-cano-aa43543aa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1B3A6B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
