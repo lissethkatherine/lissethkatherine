@@ -4,13 +4,13 @@
   <p>Bucaramanga, Santander, Colombia</p>
 
   <a href="https://www.linkedin.com/in/lisseth-katherine-zapata-cano-aa43543aa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor#0B1B2B" alt="LinkedIn" />
   </a>
   <a href="mailto:katherinecano020@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=#0B1B2B" alt="Gmail" />
   </a>
   <a href="https://github.com/lissethkatherine/lissethkatherine/raw/main/CV-Lisseth-Zapata.pdf">
-  <img src="https://img.shields.io/badge/Hoja_de_vida-3A312B?style=for-the-badge&logo=readme&logoColor=E0A97F" alt="Hoja de vida" />
+  <img src="https://img.shields.io/badge/Hoja_de_vida-3A312B?style=for-the-badge&logo=readme&logoColor=#0B1B2B" alt="Hoja de vida" />
 </a>
 
 </div>
