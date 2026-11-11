@@ -54,13 +54,13 @@ Uso herramientas de IA como apoyo para generar y optimizar código, entender err
 
 Pensamiento analítico, resolución de problemas, trabajo en equipo, comunicación efectiva, adaptabilidad, responsabilidad, aprendizaje autónomo y gestión del tiempo.
 
-## Próximos objetivos
+## 🎯 Próximos Objetivos
 
-- [ ] Profundizar en MySQL.
-- [ ] Construir APIs con Python.
-- [ ] Profundizar en patrones de diseño y POO.
-- [ ] Desarrollar más proyectos backend.
-- [ ] Fortalecer conocimientos en IA aplicada.
+* [ ] Conseguir mi primera experiencia laboral o práctica como Backend Developer.
+* [ ] Certificarme en Java y en servicios cloud (por ejemplo, Oracle Java o AWS Cloud Practitioner).
+* [ ] Contribuir a proyectos open source para ganar experiencia en equipos reales.
+* [ ] Fortalecer mi inglés técnico para trabajar con equipos internacionales.
+ 
 
 ---
 
