@@ -1,7 +1,7 @@
 <div align="center">
   <img src="banner.svg" alt="Lisseth Zapata, Backend Developer en formación" width="100%" />
 
-  <p>Estudiante de Desarrollo de Software · Floridablanca, Santander, Colombia</p>
+  <p>Bucaramanga, Santander, Colombia</p>
 
   <a href="https://www.linkedin.com/in/lisseth-katherine-zapata-cano-aa43543aa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
