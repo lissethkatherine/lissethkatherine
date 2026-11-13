@@ -4,17 +4,17 @@
   <p>Bucaramanga, Santander, Colombia</p>
 
   <a href="https://portofolio-lisseth.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-1B3A6B?style=for-the-badge&logo=vercel&logoColor=D4A84B" alt="Portafolio" />
+    <img src="https://img.shields.io/badge/Portafolio-54216F?style=for-the-badge&logo=vercel&logoColor=D4A84B" alt="Portafolio" />
   </a>
 
   <a href="https://www.linkedin.com/in/lisseth-katherine-zapata-cano-aa43543aa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1B3A6B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-54216F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:katherinecano020@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1B3A6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-54216F?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/lissethkatherine/lissethkatherine/raw/main/CV-Lisseth-Zapata.pdf">
-  <img src="https://img.shields.io/badge/Hoja_de_vida-1B3A6B?style=for-the-badge&logo=readme&logoColor=white" alt="Hoja de vida" />
+  <img src="https://img.shields.io/badge/Hoja_de_vida-54216F?style=for-the-badge&logo=readme&logoColor=white" alt="Hoja de vida" />
 </a>
 
 </div>
