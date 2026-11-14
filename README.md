@@ -3,7 +3,7 @@
 
   <p>Bucaramanga, Santander, Colombia</p>
 
-  <a href="https://portofolio-lisseth.vercel.app" target="_blank">
+  <a href="https://portafoliolisseth.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-54216F?style=for-the-badge&logo=vercel&logoColor=D4A84B" alt="Portafolio" />
   </a>
 
