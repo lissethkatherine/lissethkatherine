@@ -78,3 +78,21 @@ Una oportunidad donde pueda aportar, seguir creciendo profesionalmente y trabaja
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lissethkatherine&hide_border=true&background=54216F&ring=D4A84B&fire=D4A84B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D4A84B&sideLabels=E3D0F0&dates=E3D0F0" width="85%" alt="Racha de contribuciones" />
 </div>
 
+<div align="center">
+
+  <h3>✨ Gracias por visitar mi perfil ✨</h3>
+
+  <p><i>Construyendo, aprendiendo y automatizando, un commit a la vez.</i></p>
+
+  <a href="https://portafoliolisseth.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Conoce_mi_portafolio-54216F?style=for-the-badge&logo=vercel&logoColor=D4A84B" alt="Portafolio" />
+  </a>
+  <a href="mailto:katherinecano020@gmail.com">
+    <img src="https://img.shields.io/badge/Hablemos-D4A84B?style=for-the-badge&logo=gmail&logoColor=0B1B2B" alt="Contacto" />
+  </a>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=110&section=footer" width="100%" alt="Footer" />
+
+</div>
+
+
