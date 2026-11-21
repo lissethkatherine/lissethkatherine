@@ -4,18 +4,18 @@
   <p>Bucaramanga, Santander, Colombia</p>
 
   <a href="https://portafoliolisseth.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-54216F?style=for-the-badge&logo=vercel&logoColor=D4A84B" alt="Portafolio" />
+    <img src="https://img.shields.io/badge/Portafolio-4A4A4A?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portafolio" />
   </a>
 
   <a href="https://www.linkedin.com/in/lisseth-katherine-zapata-cano-aa43543aa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-54216F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-4A4A4A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
   </a>
   <a href="mailto:katherinecano020@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-54216F?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-4A4A4A?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail" />
   </a>
   <a href="https://github.com/lissethkatherine/lissethkatherine/raw/main/CV-Lisseth-Zapata.pdf">
-  <img src="https://img.shields.io/badge/Hoja_de_vida-54216F?style=for-the-badge&logo=readme&logoColor=white" alt="Hoja de vida" />
-</a>
+    <img src="https://img.shields.io/badge/Hoja_de_vida-4A4A4A?style=for-the-badge&logo=readme&logoColor=FFFFFF" alt="Hoja de vida" />
+  </a>
 
 </div>
 
@@ -75,7 +75,5 @@ Una oportunidad donde pueda aportar, seguir creciendo profesionalmente y trabaja
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lissethkatherine&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=D9D9D9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D9D9D9&sideLabels=A8A8A8&dates=A8A8A8" width="85%" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lissethkatherine&hide_border=true&background=4A4A4A&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E6E6E6&sideLabels=E6E6E6&dates=D0D0D0" width="85%" alt="Racha de contribuciones" />
 </div>
-
-
