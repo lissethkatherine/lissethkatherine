@@ -75,6 +75,7 @@ Una oportunidad donde pueda aportar, seguir creciendo profesionalmente y trabaja
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lissethkatherine&hide_border=true&background=54216F&ring=D4A84B&fire=D4A84B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D4A84B&sideLabels=E3D0F0&dates=E3D0F0" width="85%" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lissethkatherine&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=D9D9D9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D9D9D9&sideLabels=A8A8A8&dates=A8A8A8" width="85%" alt="Racha de contribuciones" />
 </div>
+
 
